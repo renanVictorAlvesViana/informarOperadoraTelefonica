@@ -1,2 +1,2 @@
-# informarOperadoraTelefonica
- codigo em python com o objetivo de informa a operadora telefonica
+# Informar operadora telefonica
+codigo em *python* com o objetivo de informa operadora telefonica
